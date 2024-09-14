@@ -10,7 +10,6 @@
 # command for POSIX conformance. When used with the [[
 # command, this performs pattern matching as described above
 # (Compound Commands).
-#
 [[ ${string1} == ${string2} ]]
 #True if the strings are not equal.
 [[ ${string1} != ${string2} ]]
